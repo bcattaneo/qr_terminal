@@ -1,6 +1,6 @@
 name: qr_terminal
 description: Print QRCodes in your terminal. Project was inspired by "qrcode-terminal" for javascript/node.
-version: 1.1.0
+version: 1.1.1
 homepage: https://github.com/bcattaneo/qr_terminal
 
 environment:
